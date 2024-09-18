@@ -46,5 +46,3 @@ rules:
 2. Drag or upload the **JRules.jar** into your server's plugins folder.
 3. Reload or restart your server.
 4. Edit the **config.yml** with the messages you want! (If you don't want to use the default.)
-
-**Full Changelog**: https://github.com/joblessgod/JRules/commits/v1.0
