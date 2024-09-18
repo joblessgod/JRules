@@ -1,4 +1,4 @@
-![JRules](https://github.com/user-attachments/assets/f992a829-a4b7-4720-8bad-4a27be281cfd) 
+[![JRules on spigot](https://github.com/user-attachments/assets/6d3f9c4e-ddd4-4de2-9c34-d6f5b5761d9e)](https://www.spigotmc.org/resources/jrules.119664/)
 
 **Features:**
 - **Command-Based Rule Display:** Players can use commands to view server rules.
