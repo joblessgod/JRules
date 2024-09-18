@@ -1,0 +1,14 @@
+name: JRules
+version: 1.0
+author: JobLessGod
+main: com.joblessgod.jrules.JRules
+api-version: 1.14
+description: A flexible and powerful rule-based system for managing game interactions and automations.
+commands:
+  rule:
+    description: Manage and execute game rules.
+    usage: </commands>
+    aliases: [rules, guideline, policy]
+  jrules:
+    description: Reloads the JRules configuration.
+    usage: /<command> reload
