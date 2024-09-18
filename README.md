@@ -1,4 +1,14 @@
-[![JRules on spigot](https://github.com/user-attachments/assets/6d3f9c4e-ddd4-4de2-9c34-d6f5b5761d9e)](https://www.spigotmc.org/resources/jrules.119664/)
+<div align="center">
+
+  <a href="https://www.spigotmc.org/resources/jrules.119664/">
+    <img src="https://github.com/user-attachments/assets/6d3f9c4e-ddd4-4de2-9c34-d6f5b5761d9e" alt="JRules on Spigot" />
+  </a>
+
+  <br>
+
+  <a href="https://www.spigotmc.org/resources/jrules.119664/" style="display: inline-block; padding: 10px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background-color: #007bff; text-decoration: none; border-radius: 5px;">Visit on Spigot</a>
+
+</div>
 
 **Features:**
 - **Command-Based Rule Display:** Players can use commands to view server rules.
