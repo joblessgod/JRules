@@ -7,9 +7,7 @@
   <br>
 
   <a href="https://www.spigotmc.org/resources/jrules.119664/" style="display: inline-block; padding: 10px 20px; margin: 10px; font-size: 16px; font-weight: bold; color: #fff; background-color: #007bff; text-decoration: none; border-radius: 5px;">Visit on Spigot</a>
-
 </div>
-
 **Features:**
 - **Command-Based Rule Display:** Players can use commands to view server rules.
 - **Configurable Rules:** Easily customize rules via a configuration file.
